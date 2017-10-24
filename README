@@ -27,3 +27,11 @@ in particular. In fact, the extarr and enum types break the JSON-C
 ascii string syntax.
 
 For licensing of JSON-C, please read json-c-0.12-20140410b/COPYING
+
+# Release
+
+JSON-CWX is a part of [MACSio](https://github.com/LLNL/MACSio) and as
+such is released under the terms of the GPL license. For full details
+see the [LICENSE](/LICENSE) file.
+
+LLNL-CODE-676051
